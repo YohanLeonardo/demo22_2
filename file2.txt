@@ -1,1 +1,2 @@
 try edit (nomor 7)
+add line (nomor 9)
